@@ -1,0 +1,14 @@
+/Users/ivanushachov/Desktop/Animal_world/Animal_world/bin/Debug/net8.0/Animal_world
+/Users/ivanushachov/Desktop/Animal_world/Animal_world/bin/Debug/net8.0/Animal_world.deps.json
+/Users/ivanushachov/Desktop/Animal_world/Animal_world/bin/Debug/net8.0/Animal_world.runtimeconfig.json
+/Users/ivanushachov/Desktop/Animal_world/Animal_world/bin/Debug/net8.0/Animal_world.dll
+/Users/ivanushachov/Desktop/Animal_world/Animal_world/bin/Debug/net8.0/Animal_world.pdb
+/Users/ivanushachov/Desktop/Animal_world/Animal_world/obj/Debug/net8.0/Animal_world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanushachov/Desktop/Animal_world/Animal_world/obj/Debug/net8.0/Animal_world.AssemblyInfoInputs.cache
+/Users/ivanushachov/Desktop/Animal_world/Animal_world/obj/Debug/net8.0/Animal_world.AssemblyInfo.cs
+/Users/ivanushachov/Desktop/Animal_world/Animal_world/obj/Debug/net8.0/Animal_world.csproj.CoreCompileInputs.cache
+/Users/ivanushachov/Desktop/Animal_world/Animal_world/obj/Debug/net8.0/Animal_world.dll
+/Users/ivanushachov/Desktop/Animal_world/Animal_world/obj/Debug/net8.0/refint/Animal_world.dll
+/Users/ivanushachov/Desktop/Animal_world/Animal_world/obj/Debug/net8.0/Animal_world.pdb
+/Users/ivanushachov/Desktop/Animal_world/Animal_world/obj/Debug/net8.0/Animal_world.genruntimeconfig.cache
+/Users/ivanushachov/Desktop/Animal_world/Animal_world/obj/Debug/net8.0/ref/Animal_world.dll
